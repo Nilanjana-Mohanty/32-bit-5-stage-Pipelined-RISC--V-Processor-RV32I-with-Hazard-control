@@ -32,4 +32,5 @@ This project involves the design and verification of a **32 bit 5 staged pipelin
 
 ### Architecture
 
+<img width="2550" height="1382" alt="datapath_pretty" src="https://github.com/user-attachments/assets/1e224f14-e888-4459-bf2e-9b5398fb8285" />
 
