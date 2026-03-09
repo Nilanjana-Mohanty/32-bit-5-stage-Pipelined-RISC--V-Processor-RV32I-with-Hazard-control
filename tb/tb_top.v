@@ -14,7 +14,7 @@ module tb_top;
         $dumpvars(0, tb_top);
 
         reset = 1; #15; reset = 0; 
-        #250; // Run longer so the pipeline has time to flush out
+        #250; 
 
         $display("Simulation Complete.");
         $finish;
